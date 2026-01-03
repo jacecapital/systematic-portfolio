@@ -64,5 +64,6 @@ The goal is to track investments rigorously, build systematic processes, and dev
    - Develop a systematic investment strategy worthy of a real asset management firm  
    - Master quantitative analysis, Python, and financial modeling  
    - Establish a track record that can support internships or entry into elite finance programs
+   - Get into a Ivy league school
 
 - Risk analysis dashboard
