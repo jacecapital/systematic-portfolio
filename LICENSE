@@ -1,39 +1,17 @@
-# Systematic Portfolio
+MIT License
 
-## Overview
-This repository tracks my personal research-driven portfolio with a focus on:
-- Fundamental and quantitative analysis
-- Factor-based investing
-- Risk management and portfolio allocation
+Copyright (c) 2026 Jace Johnson
 
-I aim to document my investment decisions and thought process in a clear, professional way.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this repository and associated materials, to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the repository, subject to the following conditions:
 
-## Current Holdings
-- AVGO
-- Palantir (PLTR)
-- FXAIX
-- GLD
-- NVDA
-- QQQM
-- RR
-- SLV
-- TTWO
-- VOO
+The above copyright notice and this permission notice shall be included in all copies
+or substantial portions of the repository.
 
-Each holding has a **dedicated memo** outlining:
-- Thesis & rationale
-- Risks
-- Valuation considerations
-- Future expectations
-
-## Research & Learning
-- Market analysis
-- Factor models
-- Investment strategies
-- Quantitative techniques (Python, backtesting, etc.)
-
-## Future Projects
-Planned Python/finance projects include:
-- Portfolio backtesting engine
-- Factor-based stock selection model
-- Risk analysis dashboard
+THE REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE REPOSITORY OR THE USE OR OTHER
+DEALINGS IN THE REPOSITORY.
