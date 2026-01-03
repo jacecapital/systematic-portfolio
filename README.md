@@ -65,5 +65,8 @@ The goal is to track investments rigorously, build systematic processes, and dev
    - Master quantitative analysis, Python, and financial modeling  
    - Establish a track record that can support internships or entry into elite finance programs
    - Get into a Ivy league school
+   - Finish Valedictorian of Pacifca Christian High School with a 4.0 Grade Point Average.
+
+
 
 - Risk analysis dashboard
