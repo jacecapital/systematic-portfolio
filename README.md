@@ -53,12 +53,14 @@ The goal is to track investments rigorously, build systematic processes, and dev
 1. **Short-term (6–12 months)**  
    - Document and analyze all current holdings with detailed memos  
    - Track portfolio performance vs VOO, QQQM, and DIA benchmarks  
-   - Learn Python basics to begin coding small backtests  
+   - Learn Python basics to begin coding small backtests
+   - Manage Macrostructures
 
 2. **Medium-term (1–2 years)**  
    - Build a fully functioning **Python backtesting engine**  
    - Expand portfolio analysis to factor-based strategies  
-   - Publish quarterly research reports in GitHub or Notion  
+   - Publish quarterly research reports in GitHub or Notion
+    
 
 3. **Long-term (3–5 years)**  
    - Develop a systematic investment strategy worthy of a real asset management firm  
